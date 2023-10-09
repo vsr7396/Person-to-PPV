@@ -5,4 +5,6 @@ Two datasets are used, namely, people.csv and ppv.csv. The first dataset consist
 
 The Python program for each different method is saved separately and run 50 times on 2 different computers, whose specs are given below. The running time of the programs is also recorded. 
 
-![Uploading image.png…]()
+<img width="712" alt="image" src="https://github.com/vsr7396/Person-to-PPV/assets/86844356/ccb35f47-9724-462d-b953-d97ed688586c">
+
+
